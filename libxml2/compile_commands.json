@@ -1,0 +1,302 @@
+[
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/buf.c.o -c /home/berry/Downloads/libxml2/buf.c",
+  "file": "/home/berry/Downloads/libxml2/buf.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/c14n.c.o -c /home/berry/Downloads/libxml2/c14n.c",
+  "file": "/home/berry/Downloads/libxml2/c14n.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/catalog.c.o -c /home/berry/Downloads/libxml2/catalog.c",
+  "file": "/home/berry/Downloads/libxml2/catalog.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/chvalid.c.o -c /home/berry/Downloads/libxml2/chvalid.c",
+  "file": "/home/berry/Downloads/libxml2/chvalid.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/debugXML.c.o -c /home/berry/Downloads/libxml2/debugXML.c",
+  "file": "/home/berry/Downloads/libxml2/debugXML.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/dict.c.o -c /home/berry/Downloads/libxml2/dict.c",
+  "file": "/home/berry/Downloads/libxml2/dict.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/encoding.c.o -c /home/berry/Downloads/libxml2/encoding.c",
+  "file": "/home/berry/Downloads/libxml2/encoding.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/entities.c.o -c /home/berry/Downloads/libxml2/entities.c",
+  "file": "/home/berry/Downloads/libxml2/entities.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/error.c.o -c /home/berry/Downloads/libxml2/error.c",
+  "file": "/home/berry/Downloads/libxml2/error.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/globals.c.o -c /home/berry/Downloads/libxml2/globals.c",
+  "file": "/home/berry/Downloads/libxml2/globals.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/hash.c.o -c /home/berry/Downloads/libxml2/hash.c",
+  "file": "/home/berry/Downloads/libxml2/hash.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/HTMLparser.c.o -c /home/berry/Downloads/libxml2/HTMLparser.c",
+  "file": "/home/berry/Downloads/libxml2/HTMLparser.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/HTMLtree.c.o -c /home/berry/Downloads/libxml2/HTMLtree.c",
+  "file": "/home/berry/Downloads/libxml2/HTMLtree.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/legacy.c.o -c /home/berry/Downloads/libxml2/legacy.c",
+  "file": "/home/berry/Downloads/libxml2/legacy.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/list.c.o -c /home/berry/Downloads/libxml2/list.c",
+  "file": "/home/berry/Downloads/libxml2/list.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/nanoftp.c.o -c /home/berry/Downloads/libxml2/nanoftp.c",
+  "file": "/home/berry/Downloads/libxml2/nanoftp.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/nanohttp.c.o -c /home/berry/Downloads/libxml2/nanohttp.c",
+  "file": "/home/berry/Downloads/libxml2/nanohttp.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/parser.c.o -c /home/berry/Downloads/libxml2/parser.c",
+  "file": "/home/berry/Downloads/libxml2/parser.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/parserInternals.c.o -c /home/berry/Downloads/libxml2/parserInternals.c",
+  "file": "/home/berry/Downloads/libxml2/parserInternals.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/pattern.c.o -c /home/berry/Downloads/libxml2/pattern.c",
+  "file": "/home/berry/Downloads/libxml2/pattern.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/relaxng.c.o -c /home/berry/Downloads/libxml2/relaxng.c",
+  "file": "/home/berry/Downloads/libxml2/relaxng.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/SAX.c.o -c /home/berry/Downloads/libxml2/SAX.c",
+  "file": "/home/berry/Downloads/libxml2/SAX.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/SAX2.c.o -c /home/berry/Downloads/libxml2/SAX2.c",
+  "file": "/home/berry/Downloads/libxml2/SAX2.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/schematron.c.o -c /home/berry/Downloads/libxml2/schematron.c",
+  "file": "/home/berry/Downloads/libxml2/schematron.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/threads.c.o -c /home/berry/Downloads/libxml2/threads.c",
+  "file": "/home/berry/Downloads/libxml2/threads.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/tree.c.o -c /home/berry/Downloads/libxml2/tree.c",
+  "file": "/home/berry/Downloads/libxml2/tree.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/uri.c.o -c /home/berry/Downloads/libxml2/uri.c",
+  "file": "/home/berry/Downloads/libxml2/uri.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/valid.c.o -c /home/berry/Downloads/libxml2/valid.c",
+  "file": "/home/berry/Downloads/libxml2/valid.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/xinclude.c.o -c /home/berry/Downloads/libxml2/xinclude.c",
+  "file": "/home/berry/Downloads/libxml2/xinclude.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/xlink.c.o -c /home/berry/Downloads/libxml2/xlink.c",
+  "file": "/home/berry/Downloads/libxml2/xlink.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/xmlIO.c.o -c /home/berry/Downloads/libxml2/xmlIO.c",
+  "file": "/home/berry/Downloads/libxml2/xmlIO.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/xmlmemory.c.o -c /home/berry/Downloads/libxml2/xmlmemory.c",
+  "file": "/home/berry/Downloads/libxml2/xmlmemory.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/xmlmodule.c.o -c /home/berry/Downloads/libxml2/xmlmodule.c",
+  "file": "/home/berry/Downloads/libxml2/xmlmodule.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/xmlreader.c.o -c /home/berry/Downloads/libxml2/xmlreader.c",
+  "file": "/home/berry/Downloads/libxml2/xmlreader.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/xmlregexp.c.o -c /home/berry/Downloads/libxml2/xmlregexp.c",
+  "file": "/home/berry/Downloads/libxml2/xmlregexp.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/xmlsave.c.o -c /home/berry/Downloads/libxml2/xmlsave.c",
+  "file": "/home/berry/Downloads/libxml2/xmlsave.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/xmlschemas.c.o -c /home/berry/Downloads/libxml2/xmlschemas.c",
+  "file": "/home/berry/Downloads/libxml2/xmlschemas.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/xmlschemastypes.c.o -c /home/berry/Downloads/libxml2/xmlschemastypes.c",
+  "file": "/home/berry/Downloads/libxml2/xmlschemastypes.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/xmlstring.c.o -c /home/berry/Downloads/libxml2/xmlstring.c",
+  "file": "/home/berry/Downloads/libxml2/xmlstring.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/xmlunicode.c.o -c /home/berry/Downloads/libxml2/xmlunicode.c",
+  "file": "/home/berry/Downloads/libxml2/xmlunicode.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/xmlwriter.c.o -c /home/berry/Downloads/libxml2/xmlwriter.c",
+  "file": "/home/berry/Downloads/libxml2/xmlwriter.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/xpath.c.o -c /home/berry/Downloads/libxml2/xpath.c",
+  "file": "/home/berry/Downloads/libxml2/xpath.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/xpointer.c.o -c /home/berry/Downloads/libxml2/xpointer.c",
+  "file": "/home/berry/Downloads/libxml2/xpointer.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2_EXPORTS -DSYSCONFDIR=\\\"/usr/local/etc\\\" -D_REENTRANT -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2.dir/xzlib.c.o -c /home/berry/Downloads/libxml2/xzlib.c",
+  "file": "/home/berry/Downloads/libxml2/xzlib.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DSYSCONFDIR=\\\"/usr/local/etc\\\" -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -o CMakeFiles/xmlcatalog.dir/xmlcatalog.c.o -c /home/berry/Downloads/libxml2/xmlcatalog.c",
+  "file": "/home/berry/Downloads/libxml2/xmlcatalog.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DSYSCONFDIR=\\\"/usr/local/etc\\\" -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -o CMakeFiles/xmllint.dir/xmllint.c.o -c /home/berry/Downloads/libxml2/xmllint.c",
+  "file": "/home/berry/Downloads/libxml2/xmllint.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DSYSCONFDIR=\\\"/usr/local/etc\\\" -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -o CMakeFiles/runtest.dir/runtest.c.o -c /home/berry/Downloads/libxml2/runtest.c",
+  "file": "/home/berry/Downloads/libxml2/runtest.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DSYSCONFDIR=\\\"/usr/local/etc\\\" -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -o CMakeFiles/runxmlconf.dir/runxmlconf.c.o -c /home/berry/Downloads/libxml2/runxmlconf.c",
+  "file": "/home/berry/Downloads/libxml2/runxmlconf.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DSYSCONFDIR=\\\"/usr/local/etc\\\" -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -o CMakeFiles/runsuite.dir/runsuite.c.o -c /home/berry/Downloads/libxml2/runsuite.c",
+  "file": "/home/berry/Downloads/libxml2/runsuite.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DSYSCONFDIR=\\\"/usr/local/etc\\\" -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -o CMakeFiles/testapi.dir/testapi.c.o -c /home/berry/Downloads/libxml2/testapi.c",
+  "file": "/home/berry/Downloads/libxml2/testapi.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DSYSCONFDIR=\\\"/usr/local/etc\\\" -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -o CMakeFiles/testchar.dir/testchar.c.o -c /home/berry/Downloads/libxml2/testchar.c",
+  "file": "/home/berry/Downloads/libxml2/testchar.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DSYSCONFDIR=\\\"/usr/local/etc\\\" -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -o CMakeFiles/testdict.dir/testdict.c.o -c /home/berry/Downloads/libxml2/testdict.c",
+  "file": "/home/berry/Downloads/libxml2/testdict.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DSYSCONFDIR=\\\"/usr/local/etc\\\" -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -o CMakeFiles/testModule.dir/testModule.c.o -c /home/berry/Downloads/libxml2/testModule.c",
+  "file": "/home/berry/Downloads/libxml2/testModule.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DSYSCONFDIR=\\\"/usr/local/etc\\\" -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -o CMakeFiles/testlimits.dir/testlimits.c.o -c /home/berry/Downloads/libxml2/testlimits.c",
+  "file": "/home/berry/Downloads/libxml2/testlimits.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DSYSCONFDIR=\\\"/usr/local/etc\\\" -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -o CMakeFiles/testparser.dir/testparser.c.o -c /home/berry/Downloads/libxml2/testparser.c",
+  "file": "/home/berry/Downloads/libxml2/testparser.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DSYSCONFDIR=\\\"/usr/local/etc\\\" -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -o CMakeFiles/testrecurse.dir/testrecurse.c.o -c /home/berry/Downloads/libxml2/testrecurse.c",
+  "file": "/home/berry/Downloads/libxml2/testrecurse.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DSYSCONFDIR=\\\"/usr/local/etc\\\" -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -o CMakeFiles/testThreads.dir/testThreads.c.o -c /home/berry/Downloads/libxml2/testThreads.c",
+  "file": "/home/berry/Downloads/libxml2/testThreads.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2Mod_EXPORTS -I/home/berry/Downloads/libxml2/python -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include -isystem /usr/include/python3.10  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2Mod.dir/libxml2-py.c.o -c /home/berry/Downloads/libxml2/build/libxml2-py.c",
+  "file": "/home/berry/Downloads/libxml2/build/libxml2-py.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2Mod_EXPORTS -I/home/berry/Downloads/libxml2/python -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include -isystem /usr/include/python3.10  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2Mod.dir/python/libxml.c.o -c /home/berry/Downloads/libxml2/python/libxml.c",
+  "file": "/home/berry/Downloads/libxml2/python/libxml.c"
+},
+{
+  "directory": "/home/berry/Downloads/libxml2/build",
+  "command": "/usr/bin/cc -DLibXml2Mod_EXPORTS -I/home/berry/Downloads/libxml2/python -I/home/berry/Downloads/libxml2/build -I/home/berry/Downloads/libxml2/include -isystem /usr/include/python3.10  -pedantic -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wstrict-prototypes -Wmissing-prototypes -Wno-long-long -Wno-format-extra-args -fPIC -o CMakeFiles/LibXml2Mod.dir/python/types.c.o -c /home/berry/Downloads/libxml2/python/types.c",
+  "file": "/home/berry/Downloads/libxml2/python/types.c"
+}
+]
