@@ -27,8 +27,9 @@ RUN apt-get update && \
 RUN curl -LO http://mirrors.kernel.org/ubuntu/pool/main/a/automake-1.16/automake_1.16.5-1.3_all.deb && \
     apt install ./automake_1.16.5-1.3_all.deb
 
-# Clone forked libxml and checkout branch
-RUN git clone -b 50apimisuses https://github.com/ali-soomro/libxml2.git
+# Clone custom libxml2 START (CODE REMOVED FOR ANONYMITY)
+
+# Clone custom libxml2 END (CODE REMOVED FOR ANONYMITY)
 
 WORKDIR libxml2
 COPY build.sh $SRC/
